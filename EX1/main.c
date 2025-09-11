@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main(){
     printf("\t\t2025 9月\n");
     printf("日\t一\t二\t三\t四\t五\t六\n");
